@@ -117,3 +117,4 @@ via*.json
 
 # Keep firmware file
 !keyboards/keychron/*/firmware/*.bin
+keyboards/keychron/k3_pro/ansi/rgb/keymaps/makavenne/config.h
